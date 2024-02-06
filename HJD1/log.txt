@@ -1,0 +1,6 @@
+Koly: Привет
+Ivan: хай
+Koly: Работает?
+Ivan: Yes
+Koly: Проверка
+Ivan: работает
